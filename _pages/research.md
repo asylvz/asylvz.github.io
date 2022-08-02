@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-layout: posts
+layout: archive
 author_profile: true
 ---
 

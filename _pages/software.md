@@ -1,7 +1,7 @@
 ---
 title: "Software"
 permalink: /software/
-layout: posts
+layout: single
 author_profile: true
 ---
 
