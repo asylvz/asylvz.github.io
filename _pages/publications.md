@@ -1,20 +1,19 @@
 ---
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /publications/
 layout: archive
 author_profile: true
 ---
 
-<h3>Recent Projects</h3>
+<!---<h3>Recent Projects</h3>
 
 - Determination of Gliadin and Glutenin Haplotypes in Various Einkorn Wheat and Characterization of Their in vitro
 Inflammatory Effect (TÜBİTAK-1001, PI: Dr. Kivanc Bilecen)
 
-- NEOGENE: Archaeogenomic analysis of genetic and cultural interactions in Neolithic Anatolian societies (ERC-Funded Project, PI: Dr. Mehmet Somel)
+- NEOGENE: Archaeogenomic analysis of genetic and cultural interactions in Neolithic Anatolian societies (ERC Project, PI: Dr. Mehmet Somel)
 
-- Algorithms for structural variation discovery using hybrid sequencing technologies and library preparation protocols <a href="http://alkanlab.org/support-tubitak1001-215e172.html">(TÜBİTAK-1001-215E172)</a>, PI: Dr. Can Alkan
-
-<h3>Publications</h3> 
+- Algorithms for structural variation discovery using hybrid sequencing technologies and library preparation protocols <a href="http://alkanlab.org/support-tubitak1001-215e172.html">(TÜBİTAK-1001-215E172</a>, PI: Dr. Can Alkan)
+-->
   <h4>Thesis:</h4>
   
 - <strong><em>Soylev, Arda</em></strong> (2018),<a href="http://repository.bilkent.edu.tr/handle/11693/47879" ><strong>“Structural variation discovery using multiple sequence signatures”</strong></a>, Doctoral Dissertation, Bilkent University
@@ -47,7 +46,7 @@ Inflammatory Effect (TÜBİTAK-1001, PI: Dr. Kivanc Bilecen)
 
 - <a href="http://www.mmfdergi.gazi.edu.tr/article/view/5000142174"><strong> Ses yalıtımında ses azaltım indisi modellerinin karşılaştırmalı olarak incelenmesi. </strong></a> Aksoylu, Ceyhun, Engin Mendi, and  <strong><em>Arda Söylev</em></strong>. Journal of the Faculty of Engineering and Architecture of Gazi University 31.4 (2016): 961-970.
 			
-<h4>Peer-Reviewed Conference Articles:</h4> 
+<!--- <h4>Peer-Reviewed Conference Articles:</h4> 
 
 - <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7300279&amp;isnumber=7300268"><strong> REFBSS: Reference based similarity search in biological network databases. </strong></a><strong><em>Soylev, Arda</em></strong>; Abul, Osman, Computational Intelligence in Bioinformatics and Computational Biology (CIBCB), 2015 IEEE Conference on , vol., no., pp.1-8, 12-15 Aug. 2015.
         
@@ -55,4 +54,4 @@ Inflammatory Effect (TÜBİTAK-1001, PI: Dr. Kivanc Bilecen)
  
 - <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6569468&amp;isnumber=6569394">
         <strong> Uncovering the Impact of Minimum-Energy Routing on Lifetime of Wireless Sensor Networks. </strong></a><strong><em>Soylev, Arda</em></strong>; Bicakci, Kemal; Tavli, Bulent, Distributed Computing in Sensor Systems (DCOSS), 2013 IEEE International Conference on , vol., no., pp.436,441, 20-23 May 2013
-         
+         -->
