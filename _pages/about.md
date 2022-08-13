@@ -15,7 +15,7 @@ redirect_from:
 
 <p>I am a computer scientist working on bioinformatics and computational genomics, broadly focussing on:</p>
 <ul style="line-height: 1.0em"><em>
-<li>Human genome structural variation discovery and genotyping</li>
+<li>Structural variation discovery and genotyping</li>
 <li>Pangenomes</li>
 <li>Ancient DNA</li>
 <li>Microbiome</li> </em>
