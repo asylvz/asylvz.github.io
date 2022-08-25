@@ -7,7 +7,6 @@
 
 # Theme Settings
 #
-# Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
@@ -107,7 +106,7 @@ analytics:
 author:
   name             : "Arda Söylev"
   avatar           : "/assets/images/img_Arda.jpg"
-  bio              : "Computer scientist, developing algorithms for bioinformatics and computational genomics"
+  bio              : "Postdoc researcher at Heinrich Heine University, Uniklinik Düsseldorf"
   location         : "Turkey"
   email            : "asoylev@gmail.com"
   links:
