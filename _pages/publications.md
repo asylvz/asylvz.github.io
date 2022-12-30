@@ -21,18 +21,12 @@ Inflammatory Effect (TÜBİTAK-1001, PI: Dr. Kivanc Bilecen)
 - <strong><em>Soylev, Arda</em></strong> (2013),<a href="http://earsiv.etu.edu.tr/handle/20.500.11851/914" ><strong>"Biyolojik Veritabanlarında Etkin Benzerlik Hesaplama”</strong></a>, Master of Science Thesis, TOBB Economy and Technology University
 
 
-<h4>Unpublished preprints:</h4>
-
-- <a href="https://www.biorxiv.org/content/10.1101/2022.06.06.491147v1.abstract"><strong>MTaxi: A comparative tool for taxon identification of ultra low coverage ancient genomes</strong></a> Atağ, Gözde, Kıvılcım Başak Vural, Damla Kaptan, Mustafa Özkan, Dilek Koptekin, Ekin Sağlıcan, Sevcan Doğramacı, Mevlüt Köz, Ardan Yılmaz, <strong><em>Arda Söylev</em></strong>, İnci Togan, Mehmet Somel, Füsun Özer. bioRxiv (2022).
-
-- <a href="https://www.biorxiv.org/content/10.1101/2021.12.17.473150v1.abstract"><strong>CONGA: Copy number variation genotyping in ancient genomes and low-coverage sequencing data.</strong> </a> <strong><em>Arda Soylev</em></strong>, Sevim Seda Cokoglu, Dilek Koptekin, Can Alkan, and Mehmet Somel. bioRxiv (2021).
-
-- <a href="https://www.biorxiv.org/content/10.1101/2021.03.02.433653v2.abstract"> <strong> Adaptive ecological processes and metabolic independence drive microbial colonization and resilience in the human gut.</strong> </a> Andrea R. Watson, Jessika Füssel, Iva Veseli, Johanna Zaal DeLongchamp, Marisela Silva, Florian Trigodet, Karen Lolans, Alon Shaiber, Emily Fogarty, Christopher Quince, Michael K. Yu, <strong><em>Arda Soylev</em></strong>, Hilary G. Morrison, Sonny T.M. Lee, David T. Rubin, Bana Jabri, Thomas Louie, A. Murat Eren. bioRxiv (2021).
-
 		
  <h4>Peer-Reviewed Journal Articles:</h4>
 
- - <a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045120v6.abstract"><strong> A comprehensive benchmarking of WGS-based deletion structural variant callers.</strong> </a> Varuni Sarwal, Sebastian Niehus, Ram Ayyala, Sei Chang, Angela Lu, Nicholas Darci-Maher, Russell Littman, Karishma Chhugani, <strong><em>Arda Soylev</em></strong>, Zoia Comarova, Emily Wesel, Jacqueline Castellanos, Rahul Chikka, Margaret G. Distler, Eleazar Eskin, Jonathan Flint, Serghei Mangul. Briefings in Bioinformatics 23, no. 4 (2022)
+- <a href="https://doi.org/10.1371/journal.pcbi.1010788"><strong>CONGA: Copy number variation genotyping in ancient genomes and low-coverage sequencing data.</strong> </a> <strong><em>Arda Söylev</em></strong>, Sevim Seda Cokoglu, Dilek Koptekin, Can Alkan, and Mehmet Somel. PLOS Computational Biology 18, no. 12 (2022): e1010788.
+
+ - <a href="https://doi.org/10.1093/bib/bbac221"><strong> A comprehensive benchmarking of WGS-based deletion structural variant callers.</strong> </a> Varuni Sarwal, Sebastian Niehus, Ram Ayyala, Sei Chang, Angela Lu, Nicholas Darci-Maher, Russell Littman, Karishma Chhugani, <strong><em>Arda Soylev</em></strong>, Zoia Comarova, Emily Wesel, Jacqueline Castellanos, Rahul Chikka, Margaret G. Distler, Eleazar Eskin, Jonathan Flint, Serghei Mangul. Briefings in Bioinformatics 23, no. 4 (2022)
  
 - <a href="https://f1000research.com/articles/10-246"> <strong> An international virtual hackathon to build tools for the analysis of structural variants within species ranging from coronaviruses to vertebrates.</strong> </a> Ann M. Mc Cartney, Medhat Mahmoud, Michael Jochum, Daniel Paiva Agustinho, Barry Zorman, Ahmad Al Khleifat, Fawaz Dabbaghie, Rupesh K Kesharwani, Moritz Smolka, Moez Dawood, Dreycey Albin, Elbay Aliyev, Hakeem Almabrazi, Ahmed Arslan, Advait Balaji, Sairam Behera, Kimberley Billingsley, Daniel L Cameron, Joyjit Daw, Eric T. Dawson, Wouter De Coster, Haowei Du, Christopher Dunn, Rocio Esteban, Angad Jolly, Divya Kalra, Chunxiao Liao, Yunxi Liu, Tsung-Yu Lu, James M Havrilla, Michael M Khayat, Maximillian Marin, Jean Monlong, Stephen Price, Alejandro Rafael Gener, Jingwen Ren, Sagayamary Sagayaradj, Nicolae Sapoval, Claude Sinner, Daniela C. Soto, <strong><em>Arda Soylev</em></strong>, Arun Subramaniyan, Najeeb Syed, Neha Tadimeti, Pamella Tater, Pankaj Vats, Justin Vaughn, Kimberly Walker, Gaojianyong Wang, Qiandong Zeng, Shangzhe Zhang, Tingting Zhao, Bryce Kille, Evan Biederstedt, Mark Chaisson, Adam English, Zev Kronenberg, Todd J. Treangen, Timothy Hefferon, Chen-Shan Chin, Ben Busby, Fritz J Sedlazeck. F1000Research (2021): 10(246), 246.
 
@@ -42,10 +36,18 @@ Inflammatory Effect (TÜBİTAK-1001, PI: Dr. Kivanc Bilecen)
 
 - <a href="https://www.ncbi.nlm.nih.gov/pubmed/28583483"><strong> Toolkit for automated and rapid discovery of structural variants. </strong></a><strong><em>Arda Soylev</em></strong>, Can Kockan, Fereydoun Hormozdiari, and Can Alkan. Methods 129 (2017): 3-7.
 
-- <a href="http://dergipark.gov.tr/download/article-file/294451"><strong> MOOCs 2.0: The Social Era of Education.</strong> </a><strong><em>Arda Soylev</em></strong>. Turkish Online Journal of Distance Education 18, no. 2 (2017): 56-67.
+- <a href="https://doi.org/10.17718/tojde.306557"><strong> MOOCs 2.0: The Social Era of Education.</strong> </a><strong><em>Arda Soylev</em></strong>. Turkish Online Journal of Distance Education 18, no. 2 (2017): 56-67.
 
-- <a href="http://www.mmfdergi.gazi.edu.tr/article/view/5000142174"><strong> Ses yalıtımında ses azaltım indisi modellerinin karşılaştırmalı olarak incelenmesi. </strong></a> Aksoylu, Ceyhun, Engin Mendi, and  <strong><em>Arda Söylev</em></strong>. Journal of the Faculty of Engineering and Architecture of Gazi University 31.4 (2016): 961-970.
+- <a href="https://dergipark.org.tr/tr/pub/gazimmfd/issue/26447/278451"><strong> Ses yalıtımında ses azaltım indisi modellerinin karşılaştırmalı olarak incelenmesi. </strong></a> Aksoylu, Ceyhun, Engin Mendi, and  <strong><em>Arda Söylev</em></strong>. Journal of the Faculty of Engineering and Architecture of Gazi University 31.4 (2016): 961-970.
 			
+
+<h4>Unpublished preprints:</h4>
+
+- <a href="https://doi.org/10.12688/openreseurope.14936.1"><strong>MTaxi: A comparative tool for taxon identification of ultra low coverage ancient genomes</strong></a> Atağ, Gözde, Kıvılcım Başak Vural, Damla Kaptan, Mustafa Özkan, Dilek Koptekin, Ekin Sağlıcan, Sevcan Doğramacı, Mevlüt Köz, Ardan Yılmaz, <strong><em>Arda Söylev</em></strong>, İnci Togan, Mehmet Somel, Füsun Özer. [version 1; peer review: 1 approved with reservations]. Open Res Europe 2022, 2:100.
+
+- <a href="https://www.biorxiv.org/content/10.1101/2021.03.02.433653v2.abstract"> <strong> Adaptive ecological processes and metabolic independence drive microbial colonization and resilience in the human gut.</strong> </a> Andrea R. Watson, Jessika Füssel, Iva Veseli, Johanna Zaal DeLongchamp, Marisela Silva, Florian Trigodet, Karen Lolans, Alon Shaiber, Emily Fogarty, Christopher Quince, Michael K. Yu, <strong><em>Arda Soylev</em></strong>, Hilary G. Morrison, Sonny T.M. Lee, David T. Rubin, Bana Jabri, Thomas Louie, A. Murat Eren. bioRxiv (2021).
+
+
 <!--- <h4>Peer-Reviewed Conference Articles:</h4> 
 
 - <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7300279&amp;isnumber=7300268"><strong> REFBSS: Reference based similarity search in biological network databases. </strong></a><strong><em>Soylev, Arda</em></strong>; Abul, Osman, Computational Intelligence in Bioinformatics and Computational Biology (CIBCB), 2015 IEEE Conference on , vol., no., pp.1-8, 12-15 Aug. 2015.
