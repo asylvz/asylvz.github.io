@@ -26,6 +26,8 @@ Inflammatory Effect (TÜBİTAK-1001, PI: Dr. Kivanc Bilecen)
 
 - <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02924-x"> <strong> Metabolic independence drives gut microbial colonization and resilience in health and disease.</strong> </a> Andrea R. Watson, Jessika Füssel, Iva Veseli, Johanna Zaal DeLongchamp, Marisela Silva, Florian Trigodet, Karen Lolans, Alon Shaiber, Emily Fogarty, Joseph M. Runde, Christopher Quince, Michael K. Yu, <strong><em>Arda Söylev</em></strong>, Hilary G. Morrison, Sonny Lee, Dina Kao, David T. Rubin, Bana Jabri, Thomas Louie, A. Murat Eren. Genome Biology 24, no. 1 (2023): 1-21.
 
+- <a href="https://open-research-europe.ec.europa.eu/articles/2-100"><strong>MTaxi: A comparative tool for taxon identification of ultra low coverage ancient genomes</strong></a> Atağ, Gözde, Kıvılcım Başak Vural, Damla Kaptan, Mustafa Özkan, Dilek Koptekin, Ekin Sağlıcan, Sevcan Doğramacı, Mevlüt Köz, Ardan Yılmaz, <strong><em>Arda Söylev</em></strong>, İnci Togan, Mehmet Somel, Füsun Özer. [version 3; peer review: 2 approved]. Open Res Europe 2023, 2:100.
+
 - <a href="https://doi.org/10.1371/journal.pcbi.1010788"><strong>CONGA: Copy number variation genotyping in ancient genomes and low-coverage sequencing data.</strong> </a> <strong><em>Arda Söylev</em></strong>, Sevim Seda Cokoglu, Dilek Koptekin, Can Alkan, and Mehmet Somel. PLOS Computational Biology 18, no. 12 (2022): e1010788.
 
  - <a href="https://doi.org/10.1093/bib/bbac221"><strong> A comprehensive benchmarking of WGS-based deletion structural variant callers.</strong> </a> Varuni Sarwal, Sebastian Niehus, Ram Ayyala, Sei Chang, Angela Lu, Nicholas Darci-Maher, Russell Littman, Karishma Chhugani, <strong><em>Arda Soylev</em></strong>, Zoia Comarova, Emily Wesel, Jacqueline Castellanos, Rahul Chikka, Margaret G. Distler, Eleazar Eskin, Jonathan Flint, Serghei Mangul. Briefings in Bioinformatics 23, no. 4 (2022)
@@ -45,7 +47,12 @@ Inflammatory Effect (TÜBİTAK-1001, PI: Dr. Kivanc Bilecen)
 
 <h4>Unpublished preprints:</h4>
 
-- <a href="https://doi.org/10.12688/openreseurope.14936.1"><strong>MTaxi: A comparative tool for taxon identification of ultra low coverage ancient genomes</strong></a> Atağ, Gözde, Kıvılcım Başak Vural, Damla Kaptan, Mustafa Özkan, Dilek Koptekin, Ekin Sağlıcan, Sevcan Doğramacı, Mevlüt Köz, Ardan Yılmaz, <strong><em>Arda Söylev</em></strong>, İnci Togan, Mehmet Somel, Füsun Özer. [version 1; peer review: 1 approved with reservations]. Open Res Europe 2022, 2:100.
+- <a href="https://www.biorxiv.org/content/10.1101/2024.02.18.580171v1.abstract"><strong>SVarp: pangenome-based structural variant discovery</strong></a> <strong><em>Arda Söylev</em></strong>, Jana Ebler, Samarendra Pani, Tobias Rausch, Jan Korbel, Tobias Marschall. bioRxiv, 2024-02.
+
+
+
+
+
 
 
 <!--- <h4>Peer-Reviewed Conference Articles:</h4> 
