@@ -21,6 +21,12 @@ Inflammatory Effect (TÜBİTAK-1001, PI: Dr. Kivanc Bilecen)
 - <strong><em>Söylev, Arda</em></strong> (2013),<a href="http://earsiv.etu.edu.tr/handle/20.500.11851/914" ><strong>"Biyolojik Veritabanlarında Etkin Benzerlik Hesaplama”</strong></a>, Master of Science Thesis, TOBB Economy and Technology University
 
 
+<h4>Unpublished preprints:</h4>
+
+- <a href="https://www.biorxiv.org/content/10.1101/2024.04.18.590093v1.abstract"><strong>Long-read sequencing and structural variant characterization in 1,019 samples from the 1000 Genomes Project</strong></a> Siegfried Schloissnig, Samarendra Pani, Bernardo Rodriguez-Martin, Jana Ebler, Carsten Hain, Vasiliki Tsapalou, <strong><em>Arda Söylev</em></strong>, Patrick Hüther, Hufsah Ashraf, Timofey Prodanov, Mila Asparuhova, Sarah Hunt, Tobias Rausch, Tobias Marschall, Jan O. Korbel. bioRxiv, 2024-04.
+
+- <a href="https://www.biorxiv.org/content/10.1101/2024.02.18.580171v1.abstract"><strong>SVarp: pangenome-based structural variant discovery</strong></a> <strong><em>Arda Söylev</em></strong>, Jana Ebler, Samarendra Pani, Tobias Rausch, Jan Korbel, Tobias Marschall. bioRxiv, 2024-02.
+
 		
  <h4>Peer-Reviewed Journal Articles:</h4>
 
@@ -43,14 +49,6 @@ Inflammatory Effect (TÜBİTAK-1001, PI: Dr. Kivanc Bilecen)
 - <a href="https://doi.org/10.17718/tojde.306557"><strong> MOOCs 2.0: The Social Era of Education.</strong> </a><strong><em>Arda Soylev</em></strong>. Turkish Online Journal of Distance Education 18, no. 2 (2017): 56-67.
 
 - <a href="https://dergipark.org.tr/tr/pub/gazimmfd/issue/26447/278451"><strong> Ses yalıtımında ses azaltım indisi modellerinin karşılaştırmalı olarak incelenmesi. </strong></a> Aksoylu, Ceyhun, Engin Mendi, and  <strong><em>Arda Söylev</em></strong>. Journal of the Faculty of Engineering and Architecture of Gazi University 31.4 (2016): 961-970.
-			
-
-<h4>Unpublished preprints:</h4>
-
-- <a href="https://www.biorxiv.org/content/10.1101/2024.02.18.580171v1.abstract"><strong>SVarp: pangenome-based structural variant discovery</strong></a> <strong><em>Arda Söylev</em></strong>, Jana Ebler, Samarendra Pani, Tobias Rausch, Jan Korbel, Tobias Marschall. bioRxiv, 2024-02.
-
-
-
 
 
 
