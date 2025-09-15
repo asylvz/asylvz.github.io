@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Arda Söylev"
   avatar           : "/assets/images/img_Arda.jpg"
-  bio              : "Postdoc researcher at Heinrich Heine University, Uniklinik Düsseldorf"
-  location         : "Düsseldorf"
-  email            : "asoylev@gmail.com"
+  bio              : "Assistant Professor at Necmettin Erbakan University, and Research Affiliate at Heinrich-Heine University, Uniklinik Düsseldorf"
+  location         : "Türkiye"
+  email            : "asoylev@erbakan.edu.tr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

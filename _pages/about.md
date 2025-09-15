@@ -13,7 +13,9 @@ redirect_from:
 <h3>About</h3>
 
 
-<p>I'm a postdoctoral researcher at <a href="https://marschall-lab.github.io/">Marschall Lab</a>, Heinrich Heine University, <a href="https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/institut-fuer-medizinische-biometrie-und-bioinformatik/team">Institute for Medical Biometry and Bioinformatics</a>. 
+
+<p>I am an Assistant Professor in the Department of Computer Engineering at <a href="https://erbakan.edu.tr/tr/birim/bilgisayar-muhendisligi-bolumu/">Necmettin Erbakan University</a>. I am also a Research Affiliate at the <a href="https://marschall-lab.github.io/">Marschall Lab</a>, Heinrich Heine University, within the <a href="https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/institut-fuer-medizinische-biometrie-und-bioinformatik/team">Institute for Medical Biometry and Bioinformatics</a>.</p>
+
 
 <p>My primary research interests lie in the development of algorithms for bioinformatics and computational genomics, particularly in the areas of</p>
 <ul style="line-height: 1.0em"><em>
