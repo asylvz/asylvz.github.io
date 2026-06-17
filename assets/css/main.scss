@@ -16,6 +16,17 @@ $link-color: #0d8ea8;
 //@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Content links: rely on color, drop the underline; bring it back on hover
+// so the link affordance is still discoverable.
+.page__content a:not(.btn),
+.archive a:not(.btn) {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 html {
   font-size: 16px; // change to whatever
 
