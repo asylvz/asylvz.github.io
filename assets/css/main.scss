@@ -10,6 +10,9 @@
 // theme's !default variables pick up these values.
 $max-width: 1360px;
 
+// Inline link color (hover/visited shades derive from this automatically)
+$link-color: #0d8ea8;
+
 //@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
