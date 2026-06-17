@@ -21,6 +21,7 @@ $link-color: #0d8ea8;
 .page__content a:not(.btn),
 .archive a:not(.btn) {
   text-decoration: none;
+  font-weight: bold;
 
   &:hover {
     text-decoration: underline;
