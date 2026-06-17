@@ -5,6 +5,11 @@
 
 @charset "utf-8";
 
+// Widen the content area on large screens (mobile/tablet unaffected — these
+// only take effect at desktop breakpoints). Must come before the import so the
+// theme's !default variables pick up these values.
+$max-width: 1360px;
+
 //@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
