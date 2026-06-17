@@ -5,7 +5,8 @@ layout: single
 author_profile: true
 ---
 
-<h3></h3>
+[veritig](https://github.com/asylvz/veritig) - Sequence-level verification of structural variant assemblies against haplotype-resolved references
+
 [SVarp](https://github.com/asylvz/SVarp) - Pangenome-based structural variant discovery
 
 [gaftools](https://github.com/marschall-lab/gaftools) - General purpose utility related to GAF files
