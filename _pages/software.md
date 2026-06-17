@@ -5,6 +5,8 @@ layout: single
 author_profile: true
 ---
 
+<br>
+
 [veritig](https://github.com/asylvz/veritig) - Sequence-level verification of structural variant assemblies against haplotype-resolved references
 
 [SVarp](https://github.com/asylvz/SVarp) - Pangenome-based structural variant discovery
