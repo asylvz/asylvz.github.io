@@ -21,7 +21,13 @@ $link-color: #0d8ea8;
 .page__content a:not(.btn),
 .archive a:not(.btn) {
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 700;
+
+  // Some links wrap their text in <strong> (e.g. publication titles), which the
+  // theme renders at 900. Pin it to the link weight so all links match.
+  strong {
+    font-weight: inherit;
+  }
 
   &:hover {
     text-decoration: underline;
